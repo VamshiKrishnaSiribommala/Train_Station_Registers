@@ -23,27 +23,35 @@
 
 <br>
 
-## ✨ Key Features
+## ✨ System Modules (41 Registers)
+
+<p align="center">
+  <i>Indian Railways - Station Registers Management</i>
+</p>
 
 <table>
   <tr>
     <td align="center" width="50%" style="padding: 20px;">
-      <h3>📋 Digital Attendance</h3>
-      <p>Seamlessly manage staff attendance and shifts.</p>
+      <h3>🔵 OPERATIONAL LIST</h3>
+      <p><b>(14 Registers)</b></p>
+      <p>Complete management of daily operations, staff, and train movements.</p>
     </td>
     <td align="center" width="50%" style="padding: 20px;">
-      <h3>🚦 Signal Management</h3>
-      <p>Digitally log and track train signaling records.</p>
+      <h3>🟢 MAINTENANCE SUB</h3>
+      <p><b>(13 Registers)</b></p>
+      <p>Tracking of regular upkeep, scheduled servicing, and asset care.</p>
     </td>
   </tr>
   <tr>
     <td align="center" style="padding: 20px;">
-      <h3>🛠️ Inspection Logs</h3>
-      <p>Maintain digital and searchable records of maintenance and inspections.</p>
+      <h3>🟠 INFRASTRUCTURE SUB</h3>
+      <p><b>(6 Registers)</b></p>
+      <p>Logs for physical station assets, repairs, and structural tracking.</p>
     </td>
     <td align="center" style="padding: 20px;">
-      <h3>⚠️ Incident Tracking</h3>
-      <p>Robust logging for failure scenarios, including complete audit trails.</p>
+      <h3>🔴 SAFETY LIST</h3>
+      <p><b>(7 Registers)</b></p>
+      <p>Critical tracking of safety standards, incidents, and security rules.</p>
     </td>
   </tr>
 </table>
@@ -64,8 +72,9 @@ git clone https://github.com/VamshiKrishnaSiribommala/Train_Station_Registers.gi
 
 ### 3️⃣ Setup the Database
 
-> **📥 Download Database Backup (.bak):**
-> **[Click Here to Download Your Database](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+> **📥 Request Database Backup (.bak):**
+> **[👉 Click Here to Request Database Access](https://github.com/VamshiKrishnaSiribommala/Train_Station_Registers/issues/new?title=Database+Access+Request&body=Hello!%0A%0AI+would+like+to+request+access+to+the+database+backup+(.bak)+file+for+the+Train+Station+Registers+project.%0A%0AThank+you!)**
+> *(This will open an automatic access request that notifies the author)*
 
 **Restore Instructions:**
 1. Open SQL Server Management Studio (SSMS).
@@ -114,22 +123,4 @@ Note that the directories <code>bin/</code>, <code>obj/</code>, and <code>.vs/</
 - [ ] 🔐 **Role-based Authentication** system
 - [ ] ☁️ **Cloud Database Support** (Azure/AWS)
 
-<br><br>
 
-<div align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80" height="80">
-
-### 👨‍💻 About the Author
-
-**Vamshi Krishna**  
-🎓 B.Tech IT Student | 💡 Aspiring Full Stack Developer  
-
-<br>
-
-**Enjoying this project?**  
-Give it a ⭐️ on GitHub and share it with your network!  
-
-*Have suggestions or improvements? Feel free to open an issue or pull request.*
-
-</div>
